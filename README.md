@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # zbarcam
 
 [![Build Status](https://travis-ci.org/kivy-garden/zbarcam.svg?branch=develop)](https://travis-ci.org/kivy-garden/zbarcam)
@@ -65,3 +66,6 @@ make uitest
 More likely an import issue in your `.kv` file.
 Try to `from zbarcam import ZBarCam` in your `main.py` to see the exact error.
 It's common to forget `Pillow` in `buildozer.spec` `requirements` section.
+=======
+# barcode
+>>>>>>> 7ac315a804a02cf19fe8bedc5ee522d8e9024b54
